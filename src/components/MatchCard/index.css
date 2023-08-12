@@ -1,0 +1,42 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 30%;
+  background-color: #0f172a;
+  margin-bottom: 15px;
+  padding: 16px;
+  border-radius: 12px;
+  height: 350px;
+  margin-right: 22px;
+}
+
+.card-competing-logo {
+  height: 80px;
+}
+
+.card-competing-team {
+  font-size: 10px;
+}
+
+.card-match-result {
+  text-align: center;
+  font-size: 12px;
+}
+
+.card-competing-team {
+  font-size: 20px;
+  text-align: center;
+}
+
+.card-status {
+  font-size: 18px;
+}
+
+.Won {
+  color: #18ed66;
+}
+.Lost {
+  color: #e31a1a;
+}
